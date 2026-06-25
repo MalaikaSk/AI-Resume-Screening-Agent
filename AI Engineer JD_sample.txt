@@ -1,0 +1,52 @@
+Position: AI Engineer
+
+Location: Remote / Hybrid
+
+Experience Required: 3+ Years
+
+Job Summary:
+
+We are looking for an AI Engineer to design, develop, and deploy intelligent AI solutions using Large Language Models (LLMs), Agentic AI frameworks, and automation technologies. The candidate should have strong Python programming skills and experience building AI-powered applications.
+
+Required Skills:
+
+• Python
+• SQL
+• REST APIs
+• LangChain
+• Prompt Engineering
+• Large Language Models (LLMs)
+• AI Agents
+• RAG (Retrieval Augmented Generation)
+• Vector Databases (ChromaDB, Pinecone, FAISS)
+• Git/GitHub
+
+Preferred Skills:
+
+• Docker
+• Kubernetes
+• AWS or Azure
+• Streamlit
+• FastAPI
+• CI/CD
+
+Responsibilities:
+
+• Build AI-powered applications using LLMs
+• Develop and maintain Agentic AI workflows
+• Integrate APIs and external systems
+• Design prompt engineering strategies
+• Build RAG pipelines for enterprise use cases
+• Collaborate with business and technical teams
+• Deploy AI solutions into production
+
+Education:
+
+Bachelor's or Master's Degree in Computer Science, IT, AI, or related field.
+
+Certifications:
+
+Preferred:
+• AI Certifications
+• Cloud Certifications
+• Scrum Master Certification
