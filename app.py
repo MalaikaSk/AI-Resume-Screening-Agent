@@ -2,7 +2,7 @@
 # Placeholder: Due to response size limits, this generated file contains
 # the scaffold for Version 2. Continue by merging your existing analysis
 # section and adding the prompts below.
-
+import os
 import streamlit as st
 from pypdf import PdfReader
 from dotenv import load_dotenv
