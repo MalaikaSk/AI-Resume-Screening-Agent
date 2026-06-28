@@ -5,3 +5,4 @@ python-dotenv
 pypdf
 plotly
 pandas
+streamlit-echarts
